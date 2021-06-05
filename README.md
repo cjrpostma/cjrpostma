@@ -2,5 +2,6 @@ Junior software developer at [Gambyt](https://www.gambyt.com/) backed by ten yea
 
 - 🔭 Currently working with **TypeScript, React, Node, Postgres**
 - 🌱 Currently studying **AWS**
+- 📖 Currently reading **Human Redux**
 - 🧐 Interested in everything **AWS, Serverless**
 - 💬 Ask me about **Web Development**
