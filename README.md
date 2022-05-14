@@ -2,5 +2,5 @@ Software Engineer at [Gambyt](https://www.gambyt.com/). Proponent of a sustainab
 
 - 🔭 Currently working with **TypeScript, React, Node, Postgres, AWS**
 - 🧐 Interested in everything **AWS, TypeScript**
-- 📖 Currently studying **Docker, Terraform, shell scripting**
+- 📖 Currently studying **Linux shell scripting, container orchestration**
 - 💬 Ask me about **web development**
