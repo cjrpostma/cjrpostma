@@ -2,5 +2,5 @@ Senior Software Engineer at [Gambyt](https://www.gambyt.com/). Proponent of a su
 
 - 🔭 Currently working with **TypeScript, React, Node, Postgres, AWS**
 - 🧐 Interested in everything **AWS, TypeScript**
-- 📖 Currently studying **Rust, Blender**
+- 📖 Currently studying **Rust**
 - 💬 Ask me about **web development**
